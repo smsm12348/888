@@ -120,7 +120,7 @@ def gen_user(choice):
         d = random.choices(e)
         s = random.choices(e)
         f =  [c[0], d[0], d[0]]
-        username+888 = ''.join(f)
+        username+'888' = ''.join(f)
         if username in banned[0]:
             c = random.choices(a)
             d = random.choices(e)
